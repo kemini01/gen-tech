@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "gen-tech",
+			"path": "."
+		}
+	],
+	"settings": {
+		"npm.packageManager": "pnpm"
+	}
+}
